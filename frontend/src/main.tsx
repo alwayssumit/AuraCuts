@@ -8,7 +8,6 @@ import Navbar from './components/Navbar.tsx'
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <BrowserRouter>
-       
        <App />
     </BrowserRouter>
   </StrictMode>,
